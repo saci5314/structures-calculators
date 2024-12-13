@@ -1,2 +1,2 @@
 # structures-calculators
-Bolted/welded joint analysis, natural frequency/modeshape estimation and DSM functions for simple structures problems.
+Bolted and welded joint analysis, natural frequency/modeshape estimation, and DSM methods for simple structures problems.
